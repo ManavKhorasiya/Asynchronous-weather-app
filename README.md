@@ -5,13 +5,13 @@
 
 -All files are inside playground folder
 
- Original file app.js uses callbacks
+-Original file app.js uses callbacks
  
- Geocode.js uses locationIq api to fetch co-ordinates
+-Geocode.js uses locationIq api to fetch co-ordinates
  
- Weather.js uses darksky to fetch temperature based on co-ordinates
+-Weather.js uses darksky to fetch temperature based on co-ordinates
  
- Both geocode.js and weather.js are synced with each other in app.js
+-Both geocode.js and weather.js are synced with each other in app.js
  
 -promise.js is file to understand working of promises in javascript
 
