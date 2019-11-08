@@ -1,5 +1,5 @@
 # Asynchronous-weather-app
--Weather app using node js.
+-Weather app using node js.\n
 -API used- locationIq(for latitude and longitude) and darksky(for temperature)
 -All files are inside playground folder
  Original file app.js uses callbacks
