@@ -13,6 +13,6 @@
  
 7. Both geocode.js and weather.js are synced with each other in app.js
  
-9 promise.js is file to understand working of promises in javascript
+8. promise.js is file to understand working of promises in javascript
 
-10. app-promise.js uses axios library to do the same tasks as app.js but by using promise instead of callbacks.
+9. app-promise.js uses axios library to do the same tasks as app.js but by using promise instead of callbacks.
